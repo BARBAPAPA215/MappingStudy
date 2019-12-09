@@ -8,7 +8,3 @@ To refilled in the API key, it is necessary to remove the cache stored in the di
 $ cd ~/.scopus
 $ rm -rf .scopus
 ```
-# 10/12/2019
-Todo: 
-  - Get valid API
-  - Contact HR for the Nuffic documents, the VOP documents 
