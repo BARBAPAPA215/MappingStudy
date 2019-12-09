@@ -9,6 +9,6 @@ $ cd ~/.scopus
 $ rm -rf .scopus
 ```
 # 10/12/2019
-todo: 
+Todo: 
   - Get valid API
   - Contact HR for the Nuffic documents, the VOP documents 
